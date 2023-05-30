@@ -5,7 +5,7 @@ connection =""
 
 try:
     connection = psycopg2.connect(
-        host="your_host",
+        host="sadfasdf",
         port="your_port",
         database="your_database_name",
         user="your_username",
