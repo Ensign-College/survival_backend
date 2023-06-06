@@ -20,14 +20,6 @@ Before starting, ensure that you have the following software installed:
 
 ### 1. Set Up a Virtual Environment
 
-First, navigate to the project directory in your terminal. Once inside the project directory, create a new virtual environment using `virtualenv`:
-
-```
-python3 -m venv venv
-```
-
-This command creates a new virtual environment in a folder named `venv` within your project directory.
-
 To activate the virtual environment:
 
 On Windows, execute:
